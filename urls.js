@@ -1,0 +1,1 @@
+module.exports = `mongodb+srv://TNR:T.N.R.11@cluster0.iib86dn.mongodb.net/`
