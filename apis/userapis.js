@@ -1,5 +1,5 @@
 const UserRequest = require("../model/User");
-const jwt = require("jsonwebtoken");
+//const jwt = require("jsonwebtoken");
 const mg = require("mongoose");
 
 const unew = async (req, res) => {
